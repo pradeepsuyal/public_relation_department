@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+matplotlib
+conda install -c anaconda scikit-learn
+conda install -c anaconda nltk
