@@ -290,3 +290,5 @@ for more information you can refer to [seaborn](https://seaborn.pydata.org/) off
 With Naive Byes I was able to get good accuracy score of 93 and than I applied LogisticRegression which even give me better accruracy pf 94 and also precision and f1 score is better.
 
     NOTE--> we can further improve the performance by using other classification model such as CART model(XGBOOST, LIGHTGBM, CATBOOST, DecissionTree etc) and many more. Further performance can be improved by using various hyperparameter optimization technique such as optuna,hyperpot, Grid Search, Randomized Search, etc.   
+
+you can use this [link](https://nbviewer.org/github/pradeepsuyal/public_relation_department/blob/main/Public%20Relations%20Department%28end-to-end%29.ipynb) if you face any issue while opening .ipynb file
